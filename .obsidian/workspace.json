@@ -4,119 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2ebc04069fcba67e",
+        "id": "fed2d224ded55918",
         "type": "tabs",
         "children": [
           {
-            "id": "1a6761917f5c2782",
+            "id": "2f8413ab6f359fcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos bandit/Level 7 al 8.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e56bcc8eebb2bb4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Retos bandit/Level 8 al 9.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b41d2fb2bbaef4b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Retos bandit/Level 9 al 10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1d3cc9c8cfe301a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Retos bandit/Level 10 al 11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b2cbe29140cf081",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Retos bandit/Level 9 al 10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0dbc9afb30eb9f61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Retos bandit/Level 12 al 13.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd475b9372c5f3e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Retos bandit/Level 12 al 13.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d66d7e48ea1bb7f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Retos bandit/Level 13 al 14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba50d6d0be9fb78f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Retos bandit/Level 15 al 16.md",
+                "file": "Retos bandit/Level 20 al 21.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos bandit/Level 15 al 16.md",
+                "file": "Retos bandit/Level 20 al 21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos bandit/Level 15 al 16.md",
+                "file": "Retos bandit/Level 20 al 21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos bandit/Level 15 al 16.md"
+                "file": "Retos bandit/Level 20 al 21.md"
               }
             }
           }
@@ -243,17 +146,22 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ba50d6d0be9fb78f",
+  "active": "2f8413ab6f359fcd",
   "lastOpenFiles": [
-    "Retos bandit/Level 14 al 15.md",
-    "Retos bandit/Level 15 al 16.md",
-    "Retos bandit/Level 13 al 14.md",
-    "Retos bandit/Level 12 al 13.md",
+    "Retos bandit/Level 19 al 20.md",
+    "Retos bandit/Level 18 al 19.md",
+    "Retos bandit/Level 17 al 18.md",
+    "Retos bandit/Level 16 al 17.md",
+    "Retos bandit/Level 20 al 21.md",
     "Retos bandit/plantilla.md",
-    "Retos bandit/Level 11 al 12.md",
-    "Retos bandit/Level 10 al 11.md",
-    "Retos bandit/Level 9 al 10.md",
+    "Retos bandit/Level 13 al 14.md",
+    "Retos bandit/Level 14 al 15.md",
+    "Retos bandit/Level 12 al 13.md",
+    "Retos bandit/Level 15 al 16.md",
+    "Retos bandit/Level 7 al 8.md",
     "Retos bandit/Level 8 al 9.md",
-    "Retos bandit/Level 7 al 8.md"
+    "Retos bandit/Level 9 al 10.md",
+    "Retos bandit/Level 10 al 11.md",
+    "Retos bandit/Level 11 al 12.md"
   ]
 }

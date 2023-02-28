@@ -19,7 +19,7 @@ Wrong! Please enter the correct current password
 closed
 
 bandit15@bandit:~$ cat /etc/bandit_pass/bandit15
-jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt
+JQttfApK4SeyHwDlI9SXGR50qclOAil1
 
 ## Notas opcionales.
 
