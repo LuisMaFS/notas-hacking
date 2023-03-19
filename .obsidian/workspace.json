@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7444ed1e57e77ef1",
+        "id": "d7a95b66cf6532f1",
         "type": "tabs",
         "children": [
           {
-            "id": "9b2bf0eae0733f5f",
+            "id": "39538ef3c2062f41",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Retos PicoCTF/JaWT Scratchpad.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 305.5
   },
   "right": {
     "id": "b2e338966bd41a84",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Retos PicoCTF/JaWT Scratchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Retos PicoCTF/JaWT Scratchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Retos PicoCTF/JaWT Scratchpad.md"
+              }
             }
           }
         ]
@@ -138,35 +146,35 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9b2bf0eae0733f5f",
+  "active": "39538ef3c2062f41",
   "lastOpenFiles": [
-    "Retos PicoCTF/Where are the robots.md",
-    "Retos PicoCTF/Logon.md",
-    "Retos PicoCTF/dont-use-client-side.md",
-    "Retos PicoCTF/picobrowser.md",
-    "Retos PicoCTF/Client-side-again.md",
-    "Retos PicoCTF/Nueva carpeta/Client-side-again.md",
-    "Retos PicoCTF/Nueva carpeta",
+    "Retos PicoCTF/Irish-Repo-Name 3.md",
+    "Retos PicoCTF/GET aHEAD.md",
+    "Retos PicoCTF/Irish-Name-Repo 1.md",
+    "Retos bandit/Level 17 al 18.md",
+    "Retos bandit/Level 16 al 17.md",
+    "Retos bandit/Level 15 al 16.md",
+    "Retos bandit/Level 14 al 15.md",
+    "Retos bandit/Level 13 al 14.md",
+    "Retos bandit/Level 12 al 13.md",
+    "Retos bandit/Level 11 al 12.md",
+    "Retos bandit/Level 10 al 11.md",
+    "Retos bandit/Level 9 al 10.md",
+    "Retos bandit/Level 8 al 9.md",
+    "Retos bandit/Level 7 al 8.md",
+    "Retos bandit/Level 6 al 7.md",
+    "Retos bandit/Level 5 al 6.md",
+    "Retos bandit/Level 4 al 5.md",
+    "Retos bandit/Level 3 al 4.md",
+    "Retos bandit/Level 2 al 3.md",
+    "Retos PicoCTF/Irish-Repo-Name 2.md",
+    "Retos PicoCTF/Cookies.md",
+    "Retos PicoCTF/Scavenger Hunt.md",
     "Retos PicoCTF/plantilla 1.md",
-    "Retos PicoCTF/Warmed Up.md",
-    "Retos PicoCTF/Insp3ctor.md",
-    "Retos PicoCTF/Lets Warm Up.md",
-    "Retos bandit/plantilla.md",
-    "Retos PicoCTF/2Warm.md",
-    "Retos PicoCTF",
-    "Retos bandit/Level 31 al 32.md",
-    "Retos bandit/Level 32 al 33.md",
-    "Retos bandit/Level 30 al 31.md",
-    "Retos bandit/Level 29 al 30.md",
-    "Retos bandit/Level 28 al 29.md",
-    "Retos bandit/Level 23 al 24.md",
-    "Retos bandit/Level 24 al 25.md",
-    "Retos bandit/Level 25 al 26.md",
-    "Retos bandit/Level 27 al 28.md",
-    "Retos bandit/Level 26 al 27.md",
-    "Retos bandit/Level 22 al 23.md",
-    "Retos bandit/Level 21 al 22.md",
-    "Retos bandit/Level 20 al 21.md",
-    "Retos bandit/Level 8 al 9.md"
+    "Retos PicoCTF/Static ain't always noise.md",
+    "Retos PicoCTF/Nice netcat....md",
+    "Retos PicoCTF/Wave a flag.md",
+    "Retos PicoCTF/Nueva carpeta",
+    "Retos PicoCTF"
   ]
 }
