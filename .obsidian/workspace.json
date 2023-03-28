@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e943900094409a38",
+            "id": "17b678c755de1570",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos PicoCTF/fixme2.py.md",
+                "file": "Retos PicoCTF/Compete 2023/Permissions.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "abadf576be48966a",
+            "id": "61ee32cc3ea951e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primer_Examen_Parcial/Glitch Cat.md",
+                "file": "Retos PicoCTF/What Lies Within.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Primer_Examen_Parcial/Glitch Cat.md",
+                "file": "Retos PicoCTF/What Lies Within.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Primer_Examen_Parcial/Glitch Cat.md",
+                "file": "Retos PicoCTF/What Lies Within.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Primer_Examen_Parcial/Glitch Cat.md"
+                "file": "Retos PicoCTF/What Lies Within.md"
               }
             }
           }
@@ -159,11 +159,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "abadf576be48966a",
+  "active": "61ee32cc3ea951e2",
   "lastOpenFiles": [
-    "Retos PicoCTF/Glitch Cat.md",
-    "Primer_Examen_Parcial/Glitch Cat.md",
     "Retos PicoCTF/plantilla 1.md",
+    "Retos PicoCTF/What Lies Within.md",
+    "Retos PicoCTF/Compete 2023/Permissions.md",
+    "Retos PicoCTF/Extensions.md",
+    "Retos PicoCTF/Compete 2023",
+    "Retos PicoCTF/So Meta.md",
+    "Retos PicoCTF/Shark on wire 1.md",
+    "Retos PicoCTF/Glory of the garden.md",
+    "Primer_Examen_Parcial/Glitch Cat.md",
+    "Retos PicoCTF/Glitch Cat.md",
     "Retos PicoCTF/fixme2.py.md",
     "Untitled 1.canvas",
     "Primer_Examen_Parcial/fixme2.py.md",
@@ -173,7 +180,6 @@
     "Retos PicoCTF/bases.md",
     "Retos PicoCTF/fixme1.py.md",
     "Retos PicoCTF/Codebook.md",
-    "Retos PicoCTF/Untitled.md",
     "Retos PicoCTF/Untitled 1.md",
     "Retos PicoCTF/convertme.py.md",
     "Retos PicoCTF/runme.py.md",
@@ -184,11 +190,6 @@
     "Retos PicoCTF/JaWT Scratchpad.md",
     "Retos PicoCTF/Irish-Repo-Name 3.md",
     "Retos PicoCTF/GET aHEAD.md",
-    "Retos PicoCTF/Irish-Name-Repo 1.md",
-    "Retos bandit/Level 17 al 18.md",
-    "Retos bandit/Level 16 al 17.md",
-    "Retos bandit/Level 15 al 16.md",
-    "Retos bandit/Level 14 al 15.md",
     "Retos PicoCTF/Nueva carpeta",
     "Retos PicoCTF"
   ]
