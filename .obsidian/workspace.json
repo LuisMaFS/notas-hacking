@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "271aaf19405c76a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Primer_Examen_Parcial/PW Crack 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Primer_Examen_Parcial/PW Crack 2.md",
+                "file": "Primer_Examen_Parcial/PW Crack 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Primer_Examen_Parcial/PW Crack 2.md",
+                "file": "Primer_Examen_Parcial/PW Crack 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Primer_Examen_Parcial/PW Crack 2.md"
+                "file": "Primer_Examen_Parcial/PW Crack 3.md"
               }
             }
           }
@@ -159,10 +171,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b9fba90612548669",
+  "active": "271aaf19405c76a3",
   "lastOpenFiles": [
-    "Primer_Examen_Parcial/PW Crack 1.md",
     "Primer_Examen_Parcial/PW Crack 2.md",
+    "Primer_Examen_Parcial/PW Crack 3.md",
+    "Primer_Examen_Parcial/PW Crack 1.md",
     "Retos PicoCTF/Like1000.md",
     "Retos PicoCTF/M00nwalk.md",
     "Retos PicoCTF/Where are the robots.md",
@@ -189,7 +202,6 @@
     "Retos PicoCTF/Untitled 1.md",
     "Retos PicoCTF/convertme.py.md",
     "Retos PicoCTF/runme.py.md",
-    "Retos PicoCTF/Magikarp Ground Mission.md",
     "Retos PicoCTF/Nueva carpeta",
     "Retos PicoCTF"
   ]

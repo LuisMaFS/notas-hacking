@@ -39,8 +39,11 @@ frausto_san-picoctf@webshell:~/picoctf/examen/pwcrack2$ cat level2.py
 frausto_san-picoctf@webshell:~/picoctf/examen/pwcrack2$ python3 
 
 Python 3.10.6 (main, Aug 10 2022, 11:40:04) [GCC 11.3.0] on linux
+
 Type "help", "copyright", "credits" or "license" for more information.
->>> chr(0x33) + chr(0x39) + chr(0x63) + chr(0x65)
+
+**>>>** chr(0x33) + chr(0x39) + chr(0x63) + chr(0x65)
+
 '39ce'
 
 **La contaseña es 39ce**
@@ -50,6 +53,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 frausto_san-picoctf@webshell:~/picoctf/examen/pwcrack2$ python3 level2.py 
 
 Please enter correct password for flag: 39ce
+
 Welcome back... your flag, user:
 
 picoCTF{tr45h_51ng1ng_502ec42e}
