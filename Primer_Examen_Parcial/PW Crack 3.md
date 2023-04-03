@@ -38,7 +38,7 @@ pos_pw_list = ["6997", "3ac8", "f0ac", "4b17", "ec27", "4e66", "865e"]
 
 **Ejecutamos el programa, para obtener la bandera**
 
-** La contraseña fue 865e**
+**La contraseña fue 865e**
 
 frausto_san-picoctf@webshell:~/picoctf/examen/pwcrack3$ python3 level3.py
 
