@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "df61bceecb2902a8",
+        "id": "14f7002608c55763",
         "type": "tabs",
         "children": [
           {
-            "id": "387b07fde5a852da",
+            "id": "9195313d71f3d9f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos PicoCTF/Shark on wire 2.md",
+                "file": "Retos PicoCTF/MacroHard WeakEdge.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 298.5
   },
   "right": {
     "id": "b2e338966bd41a84",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos PicoCTF/Shark on wire 2.md",
+                "file": "Retos PicoCTF/MacroHard WeakEdge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos PicoCTF/Shark on wire 2.md",
+                "file": "Retos PicoCTF/MacroHard WeakEdge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos PicoCTF/Shark on wire 2.md"
+                "file": "Retos PicoCTF/MacroHard WeakEdge.md"
               }
             }
           }
@@ -146,8 +146,27 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "387b07fde5a852da",
+  "active": "9195313d71f3d9f4",
   "lastOpenFiles": [
+    "Retos PicoCTF/plantilla 1.md",
+    "Retos PicoCTF/MacroHard WeakEdge.md",
+    "Retos PicoCTF/Tunn3l v1s10n.md",
+    "Retos PicoCTF/Tab, Tab, Attack.md",
+    "Retos PicoCTF/WebNet1.md",
+    "Retos PicoCTF/WebNet0.md",
+    "Retos PicoCTF/Matryoshka doll.md",
+    "Retos PicoCTF/2Warm.md",
+    "Retos PicoCTF/Scavenger Hunt.md",
+    "Retos PicoCTF/Strings it.md",
+    "Retos PicoCTF/Runme.py.md",
+    "Retos PicoCTF/Plumbing.md",
+    "Retos PicoCTF/Picobrowser.md",
+    "Retos PicoCTF/Fixme2.py.md",
+    "Retos PicoCTF/Fixme1.py.md",
+    "Retos PicoCTF/Dont-use-client-side.md",
+    "Retos PicoCTF/Convertme.py.md",
+    "Retos PicoCTF/Bases.md",
+    "Retos PicoCTF/Based.md",
     "Retos PicoCTF/Shark on wire 2.md",
     "Retos PicoCTF/Shark on wire 1.md",
     "Retos PicoCTF/C0rrupt.md",
@@ -155,28 +174,9 @@
     "Primer_Examen_Parcial/PW Crack 2.md",
     "Primer_Examen_Parcial/PW Crack 3.md",
     "Retos PicoCTF/Like1000.md",
-    "Retos PicoCTF/M00nwalk.md",
-    "Retos PicoCTF/Where are the robots.md",
-    "Retos PicoCTF/White Pages.md",
-    "Retos PicoCTF/Compete 2023/14-Permissions.md",
-    "Retos PicoCTF/plantilla 1.md",
-    "Retos PicoCTF/What Lies Within.md",
-    "Retos PicoCTF/Extensions.md",
     "Retos PicoCTF/Compete 2023",
-    "Retos PicoCTF/So Meta.md",
-    "Retos PicoCTF/Glory of the garden.md",
-    "Primer_Examen_Parcial/Glitch Cat.md",
-    "Retos PicoCTF/Glitch Cat.md",
-    "Retos PicoCTF/fixme2.py.md",
     "Untitled 1.canvas",
-    "Primer_Examen_Parcial/fixme2.py.md",
-    "Primer_Examen_Parcial/fixme1.py.md",
-    "2023-03-25.md",
     "Untitled.canvas",
-    "Retos PicoCTF/bases.md",
-    "Retos PicoCTF/fixme1.py.md",
-    "Retos PicoCTF/Codebook.md",
-    "Retos PicoCTF/Untitled 1.md",
     "Retos PicoCTF/Nueva carpeta",
     "Retos PicoCTF"
   ]

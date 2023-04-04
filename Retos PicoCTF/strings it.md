@@ -1,4 +1,4 @@
-# strings it
+# Strings it
 
 ## Objetivo.
 
