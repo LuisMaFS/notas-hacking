@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1b30f328882f6f1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos PicoCTF/Crypto/B00tl3gRSA2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,10 +159,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f27b8ac3f5989137",
+  "active": "1b30f328882f6f1d",
   "lastOpenFiles": [
-    "Retos PicoCTF/Crypto/MiniRSA.md",
+    "Retos PicoCTF/Crypto/Mind your Ps and Qs.md",
     "Retos PicoCTF/Crypto/B00tl3gRSA2.md",
+    "Retos PicoCTF/Crypto/MiniRSA.md",
     "Retos PicoCTF/Crypto/13.md",
     "Retos PicoCTF/Crypto/Rsa-pop-quiz.md",
     "Retos PicoCTF/Crypto/Waves over lambda.md",
@@ -174,7 +188,6 @@
     "Retos PicoCTF/Picobrowser.md",
     "Retos PicoCTF/Fixme2.py.md",
     "Retos PicoCTF/Fixme1.py.md",
-    "Retos PicoCTF/Dont-use-client-side.md",
     "Retos PicoCTF/Compete 2023",
     "Untitled 1.canvas",
     "Untitled.canvas",
