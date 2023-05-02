@@ -1,4 +1,4 @@
-# MiniRSA
+# Mini RSA
 
 ## Objetivo.
 
