@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "314d3b9180a3df66",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ca53052c743293c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca8c6cafc8697bc2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d8699b5d883766a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c9fd4917e1412a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c56869ac5ca4bde",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1decb305419fee65",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "752e33c2f641e89e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cd97c9972432c17d",
+    "type": "split",
+    "children": [
+      {
+        "id": "78352855b93b9317",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cf649edd8278e4e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Retos PicoCTF/Reversing/vault-door-1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "87273e6017523429",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Retos PicoCTF/Reversing/vault-door-1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee290287654d991b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "acc39229f26a6485",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Retos PicoCTF/Reversing/vault-door-1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir quick switcher": false,
+      "graph:Abrir vista de gráfico": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "2c56869ac5ca4bde",
+  "lastOpenFiles": [
+    "Retos PicoCTF/Compete 2023/02-HideToSee/02-HideToSee.md",
+    "Retos PicoCTF/Compete 2023/02-HideToSee/Subir imagen.png",
+    "Retos PicoCTF/Compete 2023/02-HideToSee/atbash cipher.png",
+    "Retos PicoCTF/Compete 2023/02-HideToSee/atbash.jpg",
+    "Retos PicoCTF/Compete 2023/06-hideme/hideme.md",
+    "Retos PicoCTF/Compete 2023/06-hideme/flag.png",
+    "Retos PicoCTF/Crypto/HideToSee.md",
+    "Retos PicoCTF/Compete 2023/07-ReadMyCert/ReadMyCert.md",
+    "Retos PicoCTF/Compete 2023/14-Permissions.md",
+    "Retos PicoCTF/Crypto/ReadMyCert.md",
+    "Retos PicoCTF/Reversing/vault-door-3.md",
+    "Retos PicoCTF/Reversing/vault-door-1.md",
+    "Retos PicoCTF/Reversing/vault-door-training.md",
+    "Retos PicoCTF/Crypto/B00tl3gRSA2.md",
+    "Retos PicoCTF/Crypto/13.md",
+    "Retos PicoCTF/2Warm.md",
+    "Retos PicoCTF/Reversing"
+  ]
+}
