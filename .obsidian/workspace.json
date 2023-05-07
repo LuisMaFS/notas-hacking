@@ -11,8 +11,12 @@
             "id": "ca8c6cafc8697bc2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Retos PicoCTF/Reversing/vault-door-4.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos PicoCTF/Reversing/vault-door-1.md",
+                "file": "Retos PicoCTF/Reversing/vault-door-4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos PicoCTF/Reversing/vault-door-1.md",
+                "file": "Retos PicoCTF/Reversing/vault-door-4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos PicoCTF/Reversing/vault-door-1.md"
+                "file": "Retos PicoCTF/Reversing/vault-door-4.md"
               }
             }
           }
@@ -142,8 +146,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2c56869ac5ca4bde",
+  "active": "ca8c6cafc8697bc2",
   "lastOpenFiles": [
+    "Retos PicoCTF/Reversing/vault-door-3.md",
+    "Retos PicoCTF/Reversing/vault-door-4.md",
+    "Retos PicoCTF/Reversing/vault-door-1.md",
     "Retos PicoCTF/Compete 2023/02-HideToSee/02-HideToSee.md",
     "Retos PicoCTF/Compete 2023/02-HideToSee/Subir imagen.png",
     "Retos PicoCTF/Compete 2023/02-HideToSee/atbash cipher.png",
@@ -154,8 +161,6 @@
     "Retos PicoCTF/Compete 2023/07-ReadMyCert/ReadMyCert.md",
     "Retos PicoCTF/Compete 2023/14-Permissions.md",
     "Retos PicoCTF/Crypto/ReadMyCert.md",
-    "Retos PicoCTF/Reversing/vault-door-3.md",
-    "Retos PicoCTF/Reversing/vault-door-1.md",
     "Retos PicoCTF/Reversing/vault-door-training.md",
     "Retos PicoCTF/Crypto/B00tl3gRSA2.md",
     "Retos PicoCTF/Crypto/13.md",
