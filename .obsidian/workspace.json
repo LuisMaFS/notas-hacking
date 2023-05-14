@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos PicoCTF/Reversing/asm3.md",
+                "file": "Retos PicoCTF/Reversing/Safe Opener.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos PicoCTF/Reversing/asm3.md",
+                "file": "Retos PicoCTF/Reversing/Safe Opener.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos PicoCTF/Reversing/asm3.md",
+                "file": "Retos PicoCTF/Reversing/Safe Opener.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos PicoCTF/Reversing/asm3.md"
+                "file": "Retos PicoCTF/Reversing/Safe Opener.md"
               }
             }
           }
@@ -148,9 +148,13 @@
   },
   "active": "b67ca67398450cd9",
   "lastOpenFiles": [
-    "Retos PicoCTF/Reversing/asm2.md",
-    "Retos PicoCTF/Reversing/asm3.md",
+    "Retos PicoCTF/Reversing/GDB Test Drive.md",
+    "Retos PicoCTF/Reversing/Safe Opener.md",
+    "Captura de pantalla (1378).png",
+    "Retos PicoCTF/Reversing/Need For Speed.md",
     "Retos PicoCTF/Reversing/asm1.md",
+    "Retos PicoCTF/Reversing/asm3.md",
+    "Retos PicoCTF/Reversing/asm2.md",
     "Untitled.md",
     "Retos PicoCTF/Reversing/vault-door-1.md",
     "Retos PicoCTF/Reversing/vault-door-4.md",
