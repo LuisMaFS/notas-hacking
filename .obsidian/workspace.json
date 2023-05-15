@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos PicoCTF/Binary Explotation/buffer overflow 1.md",
+                "file": "Retos PicoCTF/Binary Explotation/Stonks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos PicoCTF/Binary Explotation/buffer overflow 1.md",
+                "file": "Retos PicoCTF/Binary Explotation/Stonks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos PicoCTF/Binary Explotation/buffer overflow 1.md",
+                "file": "Retos PicoCTF/Binary Explotation/Stonks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos PicoCTF/Binary Explotation/buffer overflow 1.md"
+                "file": "Retos PicoCTF/Binary Explotation/Stonks.md"
               }
             }
           }
@@ -148,9 +148,12 @@
   },
   "active": "eb89b9f2b76ab23b",
   "lastOpenFiles": [
-    "Retos PicoCTF/Binary Explotation/buffer overflow 0.md",
-    "Retos PicoCTF/Binary Explotation/buffer overflow 1.md",
+    "Retos PicoCTF/Binary Explotation/flag leak.md",
+    "Retos PicoCTF/Binary Explotation/Stonks.md",
+    "Retos PicoCTF/Stonks.md",
     "Retos PicoCTF/Binary Explotation/basic-file-exploit.md",
+    "Retos PicoCTF/Binary Explotation/buffer overflow 1.md",
+    "Retos PicoCTF/Binary Explotation/buffer overflow 0.md",
     "Retos PicoCTF/Reversing/vault-door-training.md",
     "Retos PicoCTF/2Warm.md",
     "Retos PicoCTF/Binary Explotation",
