@@ -18,7 +18,7 @@ What do the [flags](https://jupiter.challenges.picoctf.org/static/fbeb5f9040d62
 
 └─$ open flag.png
 
-![[flag.png]]
+![[/Users/Acer/Documents/notas-hacking/flag.png]]
 
 Esa es la bandera del reto. Pero da la casualidad que esta codificada en base al código internacional de banderas marítimas.
 

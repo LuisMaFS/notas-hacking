@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "998375161aede0bc",
+            "id": "41392f94a0a5e137",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tercer Examen Parcial/Flags.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tercer Examen Parcial/Flags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tercer Examen Parcial/Flags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tercer Examen Parcial/Flags.md"
+              }
             }
           }
         ]
@@ -138,12 +146,21 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "998375161aede0bc",
+  "active": "41392f94a0a5e137",
   "lastOpenFiles": [
+    "Users/Acer/Documents/notas-hacking/flag.png.md",
+    "Tercer Examen Parcial/Flags.md",
+    "Users/Acer/Documents/notas-hacking",
+    "Users/Acer/Documents",
+    "Users/Acer",
+    "Users",
+    "Pasted image 20230516104914.png",
+    "Pasted image 20230516105752.png",
+    "Pasted image 20230516105208.png",
+    "Retos PicoCTF/Compete 2023/01-Rules 2023/01-Rules 2023.md",
     "Tercer Examen Parcial/two-sum.md",
     "Tercer Examen Parcial/transposition-trial.md",
     "Tercer Examen Parcial/clutter-overflow.md",
-    "Tercer Examen Parcial/Flags.md",
     "Tercer Examen Parcial/Picker IV.md",
     "Tercer Examen Parcial/Local Target.md",
     "Tercer Examen Parcial/Bit-O-Asm-4.md",
@@ -164,11 +181,6 @@
     "Retos PicoCTF/Reversing/vault-door-training.md",
     "Retos PicoCTF/Binary Explotation/basic-file-exploit.md",
     "Retos PicoCTF/Binary Explotation/buffer overflow 0.md",
-    "Retos PicoCTF/Binary Explotation/buffer overflow 1.md",
-    "Retos PicoCTF/Binary Explotation/flag leak.md",
-    "Pasted image 20230516105752.png",
-    "Pasted image 20230516105208.png",
-    "Pasted image 20230516104914.png",
     "flag.png",
     "Tercer Examen Parcial",
     "Retos PicoCTF/Binary Explotation",
